@@ -1,1 +1,1 @@
-Learning Pyhin
+Learning Python
