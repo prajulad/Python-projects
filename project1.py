@@ -1,3 +1,5 @@
 print("Hello Praveen")
 print("How are you?")   
 print("I'm fine thanks")
+print("what if I'm not wll")
+print("I'm not well")
