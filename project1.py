@@ -1,4 +1,4 @@
-print("Hello Praveen")
+print("Hello veda")
 print("How are you?")   
 print("I'm fine thanks")
 print("what if I'm not wll")
